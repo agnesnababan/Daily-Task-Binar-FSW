@@ -1,0 +1,64 @@
+.header {
+    background-color: plum;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar {
+    align-items: center;
+    display: flex;
+}
+
+.navbar p {
+    margin-right: 32px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.footer {
+    background-color: plum;
+    height: 130px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.footer p {
+    font-size: small;
+    line-height: 5px;
+    padding-left: 8px;
+}
+
+.med-sos img {
+    width: 20px;
+    height: 20px;
+}
+
+.facebook {
+    display: flex;
+}
+
+.line {
+    display: flex;
+}
+
+.address h5 {
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.med-sos h5 {
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.about h5 {
+    padding-top: 10px;
+    padding-left: 5px;
+}
